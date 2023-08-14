@@ -1,0 +1,6 @@
+[submodule "email-sender-service"]
+	path = email-sender-service
+	url = https://github.com/guilhermebernava/email-sender-service.git
+[submodule "login-service"]
+	path = login-service
+	url = https://github.com/guilhermebernava/login-service.git
